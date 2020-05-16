@@ -1,10 +1,10 @@
 # generateAlnFromOrthoFinder
 
-# for usage
+# Usage
 rubygenerateAlnFromOrthoFinder.rb 
 
 
-Arguments:
+# Arguments:
 
 --force	remove outdir if it exists, and create a new one
 
@@ -19,7 +19,7 @@ Arguments:
 --print_taxon	delete gene locus name
 
 
-# an example
+# Examples
 ruby generateAlnFromOrthoFinder.rb --seq_indir pep --orthogroup Orthogroups.tsv --outdir out-pep --cpu 2 --force --suffix fas --count_min_max_total 10,10 --count_min_max_per_taxon 1,1 --include_list include.list --print_taxon 
 
 
