@@ -1,5 +1,5 @@
 # Description
-extract sequences based on orthofinder
+extract sequences based on the results of OrthoFinder (orthogroup)
 
 # Usage
 rubygenerateAlnFromOrthoFinder.rb 
