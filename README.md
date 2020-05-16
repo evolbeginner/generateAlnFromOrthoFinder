@@ -1,4 +1,5 @@
-# generateAlnFromOrthoFinder
+# Description
+extract sequences based on orthofinder
 
 # Usage
 rubygenerateAlnFromOrthoFinder.rb 
